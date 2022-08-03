@@ -1,0 +1,29 @@
+body{
+    background-size: cover;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    background-color: grey;
+    color:azure
+}
+
+#random_title{
+    margin:0px;
+    font-size: 26;
+    width: 100%;
+}
+
+#start_btn{
+    font-size: 18px;
+    margin-top: 30px;
+}
+
+canvas{
+    border:2px solid white;
+    box-shadow: 5px 5px 5px black;
+    margin-top: 90px;
+}
